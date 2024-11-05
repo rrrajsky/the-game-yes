@@ -1,2 +1,4 @@
 # this is a game
-### download build folder or the .zip to play (not yet implemented)
+### to play, head to https://spsejecnacz-my.sharepoint.com/:f:/g/personal/rajsky_spsejecna_cz/EiEMbh-7-FJHh-UZ6h4-qxMBMUaxPwNzoLPXI1PfFMT0pQ?e=UbcBHN
+### and download either the entire folder, or just the zip
+### then launch the .exe
